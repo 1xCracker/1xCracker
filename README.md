@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Baykoca</h1>
 <h3 align="center">I am Computer Engineer Student</h3>
-<img src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/200w.gif?cid=6c09b952o658019w1n5ptykc94z3mynnq81tcjkwn7wltxwt&amp;ep=v1_gifs_search&amp;rid=200w.gif&amp;ct=g" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 200px; height: 111px; margin: 0px; width: 176px;" alt="Php Development GIFs - Find &amp; Share on GIPHY" jsname="kn3ccd">
+<img src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/200w.gif?cid=6c09b952o658019w1n5ptykc94z3mynnq81tcjkwn7wltxwt&amp;ep=v1_gifs_search&amp;rid=200w.gif&amp;ct=g" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 400px; height: 200px; margin: 0px; width: 275px;" alt="Php Development GIFs - Find &amp; Share on GIPHY" jsname="kn3ccd">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1xcracker&label=Profile%20views&color=0e75b6&style=flat" alt="1xcracker" /> </p>
 
 <h3 align="left">Connect with me:</h3>
